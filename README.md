@@ -1,5 +1,6 @@
 # HYLee_ML2017HW4
 李宏毅老師，機器學習，2017作業4，以RNN實作評論情緒分類，以及Semi-supervised learning。
+[原始說明檔案](https://docs.google.com/presentation/d/1HnyZowEamy8N4cUT0gY4aoRZuBTluIuoe8uYQdFxhI0/edit#slide=id.p)
 
 ### 初步結果
 將training data, nolabel data, testing data全部的文字都一起訓練word2vec。<br>
