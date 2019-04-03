@@ -9,4 +9,4 @@ word2vec參數為200個維度，skip-gram，window為3，min_count=1。<br>
 建立Stack LSTM，2層，input_dim為200維，output 1個neuron，通過sigmoid function產生的機率分佈。<br>
 fit資料集時，將training中的短句子補滿（最長37個字）。testing時最長有39個字，但只取前37個字。<br>
 <br>
-目前LeaderBoard上分數：Public=0.80324，Private=0.80117，通過Strong Baseline。<br>
+目前LeaderBoard上分數：Public=0.80324，Private=0.80117，通過Simple Baseline。<br>
